@@ -1,1 +1,1 @@
-mkdir TPC1
+TPC1
